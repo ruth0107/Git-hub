@@ -2,4 +2,4 @@
 bring github down
 
 let us bring github down
-by loggin
+by loggin % git push origin new-branch
